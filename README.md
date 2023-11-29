@@ -35,17 +35,16 @@
 
 ## About The Project
 
-REST APIs based on CRUD methods. The project wrote in JavaScript using Node.js. The database used is MongoDB. This application gives us the ability to manage the students, edit, and get information on specific students and delete a student. The project has been written in accordance with the principles of Clean Code and good object-oriented programming practices.
+REST APIs based on CRUD methods. The project wrote in JavaScript using React and Redux Toolkit. This application gives us the ability to manage the students, edit, and get information on specific students and delete a student. The project has been written in accordance with the principles of Clean Code and good object-oriented programming practices.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 - JavaScript
-- Node.js
-- Express.js
+- React
 - Redux Toolkit
-- Mongoose
+- Axios
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
